@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🚀 I’m currently building full-stack MERN and AI-powered web applications.<br>🤝 I’m open to collaborating on innovative web and open-source projects.<br>🧠 I’m seeking to improve my backend architecture and system design skills.<br>🌱 I’m learning advanced MERN concepts and real-world AI integration.<br>⚡ Passionate about turning complex ideas into clean, scalable web solutions.
 
 
@@ -14,12 +14,6 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harsh-027&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=harsh-027&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=harsh-027&icon=0&color=0)](https://visitcount.itsvg.in)
